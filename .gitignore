@@ -1,0 +1,6 @@
+packages
+.vs
+EntityFrameworkMVC/bin/**
+EntityFrameworkMVC/obj/**
+NHibernateMVC/bin/**
+NHibernateMVC/obj/**
