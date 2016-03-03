@@ -1,0 +1,31 @@
+{
+  "name": "MVC_ORM",
+  "homepage": "https://github.com/tonymause/MVC_ORM",
+  "authors": [
+    "wei bin <tonymause@163.com>"
+  ],
+  "description": "asp.net4 mvc5 EF/Nhibernate",
+  "main": "bower.json",
+  "moduleType": [],
+  "keywords": [
+    "asp.net",
+    "MVC5",
+    "EF",
+    "NHibernate"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^2.2.1",
+    "bootstrap": "^3.3.6"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.1"
+  }
+}
